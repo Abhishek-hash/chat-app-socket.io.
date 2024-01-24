@@ -44,5 +44,5 @@ Step by step execution features with appropriate features:-
 ![Screenshot (507)](https://github.com/Abhishek-hash/chat-app-socket.io./assets/54746811/9e795404-e136-495f-8fca-9223019f98fc)
 
 
-Happy Chatting :)
+Happy Chatting ☺
 
